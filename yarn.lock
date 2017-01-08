@@ -5340,6 +5340,14 @@ react-deep-force-update@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/react-deep-force-update/-/react-deep-force-update-1.0.1.tgz#f911b5be1d2a6fe387507dd6e9a767aa2924b4c7"
 
+react-dom@15.4.2:
+  version "15.4.2"
+  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-15.4.2.tgz#015363f05b0a1fd52ae9efdd3a0060d90695208f"
+  dependencies:
+    fbjs "^0.8.1"
+    loose-envify "^1.1.0"
+    object-assign "^4.1.0"
+
 react-dom@^15.4.0:
   version "15.4.1"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-15.4.1.tgz#d54c913261aaedb17adc20410d029dcc18a1344a"
@@ -5372,9 +5380,9 @@ react-native-easy-grid@0.1.7:
   dependencies:
     lodash "^4.11.1"
 
-react-native-elements@^0.9.0:
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/react-native-elements/-/react-native-elements-0.9.0.tgz#fde48eb2f9b4379c9360e9997a4b4168197791c8"
+react-native-elements@^0.9.1:
+  version "0.9.1"
+  resolved "https://registry.yarnpkg.com/react-native-elements/-/react-native-elements-0.9.1.tgz#1f29616f430e8cdc5d8b0354d88af04a5a1a1573"
   dependencies:
     react-native-side-menu "^0.20.1"
     react-native-tab-navigator "^0.3.3"
@@ -5455,9 +5463,9 @@ react-native-vector-icons@2.x.x:
     lodash "^4.0.0"
     yargs "^4.7.0"
 
-react-native-vector-icons@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/react-native-vector-icons/-/react-native-vector-icons-3.0.0.tgz#a2f63757dee4fb89f67eef660e25e86926ae6827"
+react-native-vector-icons@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-vector-icons/-/react-native-vector-icons-4.0.0.tgz#6a2f8f4c6ace613aed7748cd530809283e5b1538"
   dependencies:
     lodash "^4.0.0"
     yargs "^6.3.0"
@@ -5571,9 +5579,9 @@ react-transform-hmr@^1.0.4:
     global "^4.3.0"
     react-proxy "^1.1.7"
 
-react@15.4.1:
-  version "15.4.1"
-  resolved "https://registry.yarnpkg.com/react/-/react-15.4.1.tgz#498e918602677a3983cd0fd206dfe700389a0dd6"
+react@15.4.2:
+  version "15.4.2"
+  resolved "https://registry.yarnpkg.com/react/-/react-15.4.2.tgz#41f7991b26185392ba9bae96c8889e7e018397ef"
   dependencies:
     fbjs "^0.8.4"
     loose-envify "^1.1.0"
